@@ -4,7 +4,7 @@ Author: z@apiary.io
 
 ---
 
-### Format 1A
+### Format 1B
 
 ---
 
